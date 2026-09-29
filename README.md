@@ -4,15 +4,9 @@
 
 <b> 简介： </b>
 
-互联网行业民工，工作时间超过10年，目前在广告公司打杂。
+互联网行业民工，工作时间超过10年，目前在广告公司打杂。经历过信息化，数字化，智能化三个阶段，见识了AI崛起的速度。最终发现有质感的东西，都需要平静的耐心打磨，不管是产品和内容，还是工作和生活。
 
-经历过信息化，数字化，智能化三个阶段，见识了AI崛起的速度。
-
-最终发现有质感的东西，都需要平静的耐心打磨，不管是产品和内容，还是工作和生活。
-
-Internet industry migrant workers, who have worked for more than 10 years, are currently doing miscellaneous tasks at an advertising company.
-Having gone through the stages of informatization, digitalization and intelligence, I have witnessed the rapid rise of AI.
-Ultimately, it is discovered that anything with substance requires a calm and patient process of refinement, whether it is products and content, or work and life.
+Internet industry migrant workers, who have worked for more than 10 years, are currently doing miscellaneous tasks at an advertising company.Having gone through the stages of informatization, digitalization and intelligence, I have witnessed the rapid rise of AI.Ultimately, it is discovered that anything with substance requires a calm and patient process of refinement, whether it is products and content, or work and life.
 
 <p align="center">
   <samp>
